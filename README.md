@@ -11,7 +11,7 @@
 
 
 
-## 🔗 Live Link - [Rock Paper Scissors Game](https://animated-popup-cookie.netlify.app/)
+## 🔗 Live Link - [Animated Popup Cookie](https://animated-popup-cookie.netlify.app/)
 
 
 ## 🪧 Demo
